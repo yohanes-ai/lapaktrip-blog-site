@@ -1,0 +1,176 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimag Toolkit 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-22 20:41+0530\n"
+"PO-Revision-Date: 2016-03-01 05:21+0530\n"
+"Last-Translator: Onista Web <onistaweb@gmail.com>\n"
+"Language-Team: Onista Web <onistaweb@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ minimag-toolkit
+#: shortcodes/sc_poststyle_two.php:148 shortcodes/sc_poststyle_two.php:234
+#: shortcodes/sc_poststyle_two.php:308 shortcodes/sc_poststyle_two.php:394
+#: shortcodes/sc_poststyle_three.php:147 shortcodes/sc_poststyle_three.php:187
+#: shortcodes/sc_poststyle_three.php:219 shortcodes/sc_poststyle_three.php:249
+#: shortcodes/sc_poststyle_three.php:324 shortcodes/sc_poststyle_three.php:410
+#: shortcodes/sc_poststyle_one.php:148 shortcodes/sc_poststyle_one.php:310
+#: shortcodes/sc_poststyle_one.php:396 shortcodes/sc_poststyle_four.php:154
+#: shortcodes/sc_poststyle_four.php:256 shortcodes/sc_masonry_two.php:159
+#: shortcodes/sc_masonry_two.php:245 shortcodes/sc_masonry_three.php:169
+#: shortcodes/sc_masonry_three.php:255 shortcodes/sc_masonry_one.php:179
+#: shortcodes/sc_masonry_one.php:265 shortcodes/sc_masonry_four.php:168
+#: shortcodes/sc_masonry_four.php:254
+msgid "by"
+msgstr ""
+
+# @ minimag-toolkit
+#: shortcodes/sc_poststyle_two.php:200 shortcodes/sc_poststyle_two.php:360
+#: shortcodes/sc_poststyle_three.php:207 shortcodes/sc_poststyle_three.php:376
+#: shortcodes/sc_poststyle_one.php:200 shortcodes/sc_poststyle_one.php:362
+#: shortcodes/sc_poststyle_four.php:214 shortcodes/sc_popular_post.php:95
+#: shortcodes/sc_masonry_two.php:211 shortcodes/sc_masonry_three.php:221
+#: shortcodes/sc_masonry_one.php:231 shortcodes/sc_masonry_four.php:220
+#: includes/widgets/tranding_post.php:110
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+# @ minimag-toolkit
+#: shortcodes/sc_poststyle_two.php:222 shortcodes/sc_poststyle_two.php:382
+#: shortcodes/sc_poststyle_three.php:237 shortcodes/sc_poststyle_three.php:398
+#: shortcodes/sc_poststyle_one.php:222 shortcodes/sc_poststyle_one.php:364
+#: shortcodes/sc_poststyle_four.php:244 shortcodes/sc_popular_post.php:117
+#: shortcodes/sc_masonry_two.php:233 shortcodes/sc_masonry_three.php:243
+#: shortcodes/sc_masonry_one.php:253 shortcodes/sc_masonry_four.php:242
+#: includes/widgets/tranding_post.php:122
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+# @ minimag-toolkit
+#: shortcodes/sc_poststyle_two.php:264 shortcodes/sc_poststyle_two.php:265
+#: shortcodes/sc_poststyle_two.php:422 shortcodes/sc_poststyle_two.php:423
+#: shortcodes/sc_poststyle_three.php:279 shortcodes/sc_poststyle_three.php:280
+#: shortcodes/sc_poststyle_three.php:440 shortcodes/sc_poststyle_three.php:441
+#: shortcodes/sc_poststyle_one.php:264 shortcodes/sc_poststyle_one.php:265
+#: shortcodes/sc_poststyle_one.php:426 shortcodes/sc_poststyle_one.php:427
+#: shortcodes/sc_poststyle_four.php:286 shortcodes/sc_poststyle_four.php:287
+#: shortcodes/sc_masonry_two.php:275 shortcodes/sc_masonry_two.php:276
+#: shortcodes/sc_masonry_three.php:285 shortcodes/sc_masonry_three.php:286
+#: shortcodes/sc_masonry_one.php:304 shortcodes/sc_masonry_one.php:305
+#: shortcodes/sc_masonry_four.php:284 shortcodes/sc_masonry_four.php:285
+#: shortcodes/sc_carousel_two.php:138 shortcodes/sc_carousel_two.php:139
+#: shortcodes/sc_carousel_three.php:124 shortcodes/sc_carousel_three.php:125
+#: shortcodes/sc_carousel_six.php:125 shortcodes/sc_carousel_six.php:126
+#: shortcodes/sc_carousel_four.php:129 shortcodes/sc_carousel_four.php:130
+#: shortcodes/sc_carousel_five.php:125 shortcodes/sc_carousel_five.php:126
+#: shortcodes/sc_carousel_one.php:147 shortcodes/sc_carousel_one.php:148
+msgid "Read More"
+msgstr ""
+
+# @ minimag-toolkit
+#: shortcodes/sc_poststyle_two.php:169 shortcodes/sc_poststyle_two.php:329
+#: shortcodes/sc_poststyle_three.php:168 shortcodes/sc_poststyle_three.php:345
+#: shortcodes/sc_poststyle_one.php:169 shortcodes/sc_poststyle_one.php:331
+#: shortcodes/sc_poststyle_four.php:175 shortcodes/sc_masonry_two.php:180
+#: shortcodes/sc_masonry_three.php:190 shortcodes/sc_masonry_one.php:200
+#: shortcodes/sc_masonry_four.php:189 shortcodes/sc_poststyle_two.php:275
+#: shortcodes/sc_poststyle_two.php:434 shortcodes/sc_poststyle_three.php:291
+#: shortcodes/sc_poststyle_three.php:451 shortcodes/sc_poststyle_one.php:275
+#: shortcodes/sc_poststyle_one.php:437 shortcodes/sc_poststyle_four.php:297
+#: shortcodes/sc_masonry_two.php:287 shortcodes/sc_masonry_three.php:297
+#: shortcodes/sc_masonry_one.php:316 shortcodes/sc_masonry_four.php:296
+msgid "Previous"
+msgstr ""
+
+# @ minimag-toolkit
+#: shortcodes/sc_poststyle_two.php:170 shortcodes/sc_poststyle_two.php:332
+#: shortcodes/sc_poststyle_three.php:171 shortcodes/sc_poststyle_three.php:348
+#: shortcodes/sc_poststyle_one.php:172 shortcodes/sc_poststyle_one.php:334
+#: shortcodes/sc_poststyle_four.php:178 shortcodes/sc_masonry_two.php:183
+#: shortcodes/sc_masonry_three.php:193 shortcodes/sc_masonry_one.php:203
+#: shortcodes/sc_masonry_four.php:192 shortcodes/sc_poststyle_two.php:276
+#: shortcodes/sc_poststyle_two.php:435 shortcodes/sc_poststyle_three.php:292
+#: shortcodes/sc_poststyle_three.php:452 shortcodes/sc_poststyle_one.php:276
+#: shortcodes/sc_poststyle_one.php:438 shortcodes/sc_poststyle_four.php:298
+#: shortcodes/sc_masonry_two.php:288 shortcodes/sc_masonry_three.php:298
+#: shortcodes/sc_masonry_one.php:317 shortcodes/sc_masonry_four.php:297
+msgid "Next"
+msgstr ""
+
+# @ minimag-toolkit
+#: shortcodes/sc_poststyle_two.php:277 shortcodes/sc_poststyle_two.php:436
+#: shortcodes/sc_poststyle_three.php:293 shortcodes/sc_poststyle_three.php:453
+#: shortcodes/sc_poststyle_one.php:277 shortcodes/sc_poststyle_one.php:439
+#: shortcodes/sc_poststyle_four.php:299 shortcodes/sc_masonry_two.php:289
+#: shortcodes/sc_masonry_three.php:299 shortcodes/sc_masonry_one.php:318
+#: shortcodes/sc_masonry_four.php:298
+msgid "Page"
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/tranding_post.php:24
+msgid "Trending Posts"
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/social_icon.php:23
+msgid "FOLLOW US"
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/popularpost.php:24
+msgid "Popular Posts"
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/instagram.php:27
+msgid "Instagram"
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/instagram.php:86
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/instagram.php:89
+msgid "Instagram did not return a 200."
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/instagram.php:101 includes/widgets/instagram.php:105
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/instagram.php:167
+msgid "Instagram did not return any images."
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/instagram.php:192
+msgid "Follow Me "
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/widgets/category_image.php:24
+msgid "Categories"
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/functions.php:108
+msgid "0 View"
+msgstr ""
+
+# @ minimag-toolkit
+#: includes/functions.php:111
+msgid " Views"
+msgstr ""

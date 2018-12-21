@@ -1,0 +1,71 @@
+/*
+	Admin Stylesheet
+*/
+
+.intro-text {
+	border-left: 4px solid #cae0f3;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	padding: 1px 12px;
+	background-color: #f5fafd;
+	color: #0c518f;
+	margin-bottom: 20px;
+}
+
+.intro-text li {
+	list-style: inside none square;
+	line-height: 23px;
+}
+
+.cmb-row[class*="-owlayout"] li {
+    float: left;
+    margin-right: 15px;
+	position: relative;
+	transition: all 1s ease 0s;
+	-webkit-transition: all 1s ease 0s;
+	-moz-transition: all 1s ease 0s;
+	-o-transition: all 1s ease 0s;
+}
+.cmb-row[class*="-owlayout"] li label  img{
+	background: white none repeat scroll 0 0;
+	border: 1px solid #e2e2e2;
+	border-radius: 5px;
+	margin: 0 0 5px;
+	outline: medium none !important;
+	padding: 4px;
+}
+.cmb-row[class*="-owlayout"] li input[type="radio"] {
+	display: none;
+}
+.cmb-row[class*="-owlayout"] li input[type="radio"]:checked + lable {
+	border: 3px solid #808080;
+}
+
+.cmb-row[class*="-owlayout"] li img:hover,
+.cmb-row[class*="-owlayout"] li.selected img { 
+	transition: all 1s ease 0s;
+	-webkit-transition: all 1s ease 0s;
+	-moz-transition: all 1s ease 0s;
+	-o-transition: all 1s ease 0s;	
+	background: #33b5e5 none repeat scroll 0 0 !important;
+	opacity: 1;
+	outline: medium none !important;	
+}
+
+.cmb2-media-status .embed-status, 
+.cmb2-media-status .img-status img  {
+	background-color: #808080;
+}
+
+.widget-inside .custom_media_image {
+	max-width: 300px;
+	max-height: 300px;
+}
+.cmb2-id-minimag-cf-res-logo .cmb2-media-status .img-status img {
+	background: rgba(0, 0, 0, 0.2);
+}
+#minimag_cf_custom_logo_id-status .cmb-file-field-image {
+	background-color: #ececec;
+}
+.button.custom_media_upload {
+	margin-top: 10px;
+}

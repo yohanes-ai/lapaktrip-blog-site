@@ -1,0 +1,7 @@
+/* - Map  */
+.map-section .map-canvas {
+	height: 460px;
+}
+.map-section {
+	position: relative;
+}

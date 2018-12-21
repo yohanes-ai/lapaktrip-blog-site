@@ -1,0 +1,17 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">mc4wp-form</custom-type>
+	</custom-types>
+    <admin-texts>	
+        <key name="minimag_option">
+			<key name="opt_logotype" />
+			<key name="opt_customtxt" />
+			<key name="opt_footer_copyright" />
+			<key name="opt_error_title" />
+			<key name="opt_error_subtitle" />
+			<key name="opt_error_content" />
+        </key>
+        <key name="minimag_option" />
+		<key name="blogname" />
+    </admin-texts>
+</wpml-config>
